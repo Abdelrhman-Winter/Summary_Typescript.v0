@@ -1,0 +1,6 @@
+Create Configuration And Watch Files
+
+tsc index.ts              >>>>>>>>>>>>>>> to compile the file
+tsc -h                    >>>>>>>>>>>>>>> flag of help for tsc 
+tsc -w index.ts           >>>>>>>>>>>>>>> starting compilation in watch mode
+tsc --init                >>>>>>>>>>>>>>> creat config file
